@@ -5,6 +5,8 @@ enlarges the game image without the black bars at the top and bottom and keeps
 the desktop at its current resolution. Some movies have their own black bars;
 the mod does not remove those from the movie image.
 
+Get [Bad Mojo Redux on Steam](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/).
+
 The mod runs the game in a window and uses [Magpie](https://github.com/Blinue/Magpie)
 to scale it to fullscreen. The game may appear in a window for several seconds
 before Magpie takes over. This delay is expected.
